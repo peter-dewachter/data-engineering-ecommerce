@@ -1,0 +1,4 @@
+streamlit>=1.39
+databricks-sql-connector
+pandas
+requests
